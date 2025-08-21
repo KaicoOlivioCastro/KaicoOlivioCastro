@@ -59,7 +59,6 @@ Este portfólio reúne projetos práticos que refletem meu conhecimento em teste
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
     />
 
-
 <img 
     align="left" 
     alt="VS Code" 
@@ -67,6 +66,33 @@ Este portfólio reúne projetos práticos que refletem meu conhecimento em teste
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="K6" 
+    title="K6"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Jira" 
+    title="Jira"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Jenkins" 
+    title="Jenkins"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
 />
 
 <br/>
@@ -89,3 +115,13 @@ Este portfólio reúne projetos práticos que refletem meu conhecimento em teste
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=KaicoOlivioCastro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
+
+            
+            
+            
+          
+          
+          
+
+  
